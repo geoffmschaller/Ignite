@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.module.sass';
+import API from '../api/API';
 
 const App = () => {
 	return (
